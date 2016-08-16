@@ -1,0 +1,16 @@
+*.a
+*.o
+*.so
+*.mo
+*.pyc
+*~
+.svn
+
+# exclude the build and install directory
+build
+install
+
+.cache
+\#*.*\#
+
+
